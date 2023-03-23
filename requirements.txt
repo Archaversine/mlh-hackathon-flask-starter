@@ -5,7 +5,7 @@ chardet==3.0.4
 Click==8.0
 Flask==2.2.3
 Flask-Misaka==1.0.0
-Flask-SQLAlchemy==2.3.2
+Flask-SQLAlchemy==2.5.1
 gunicorn==19.9.0
 idna==2.8
 itsdangerous==2.0
